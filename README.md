@@ -1,5 +1,6 @@
 # XOmBSD
 Unix desktop for the Apocalypse
+
 OPENBSD suckless.org by default
 
 Vanilla dmenu, surf, tabbed, dmenu, dwm.
